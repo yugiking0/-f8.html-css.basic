@@ -34,7 +34,8 @@ Trong bài này mình chỉ đưa ra những `CSS selectors ` cơ bản và thư
 | 10  | element + element | div + p       | Chọn thẻ p đứng liền kề sau thẻ div                                             |
 | 11  | element ~ element | div ~ p       | Chọn tất cả thẻ p đứng sau thẻ div                                              |
 
-Tham khảo thêm tại: https://www.w3schools.com/cssref/css_selectors.asp
+Tham khảo thêm tại:
+[w3schools css_selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 
 > CSS selectors là công cụ vô cùng mạnh mẽ. Toàn bộ các selectors trong CSS đều có thể linh động kết hợp với nhau khi sử dụng giúp lập trình viên có thể chọn được bất cứ phần tử HTML nào trong website.
 
@@ -308,7 +309,7 @@ Chọn các thẻ có class `children` là con của thẻ có class `parent`
 </div>
 ```
 
-Để xem các ví dụ trực quan hơn các bạn hãy tham khảo qua công cụ “CSS selectors tester” rất trực quan, được xây dựng bởi w3school tại đây: https://www.w3schools.com/cssref/trysel.asp
+Để xem các ví dụ trực quan hơn các bạn hãy tham khảo qua công cụ “CSS selectors tester” rất trực quan, được xây dựng bởi w3school tại đây: [Ví dụ tại w3schools](https://www.w3schools.com/cssref/trysel.asp)
 
 > **Theo tháp học tập:** Nếu chỉ đọc tài liệu này các bạn chỉ hiểu từ 5% - 15% kiến thức. Trong khi nếu vừa đọc vừa tự trải nghiệm bằng cách tự viết code, tự tìm hiểu bạn có thể nắm giữ lên tới 75% kiến thức.
 
