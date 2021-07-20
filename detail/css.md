@@ -343,8 +343,3 @@ Dấu "+": Một ngày nọ, anh D con ông A chán cảnh ồn ào trong gia đ
 
 [CSS Selectors - difference between and when to use](https://stackoverflow.com/questions/43325543/css-selectors-difference-between-and-when-to-use-or)
 
-## Bài tập
-
-```
-
-```
