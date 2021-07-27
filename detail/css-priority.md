@@ -38,6 +38,8 @@ h1 {
 }
 ```
 
+- Vậy việc ưu tiên khai báo nào sẽ được ưu tiên hơn giữa `Internal` - Khai báo ngay ở trong file và `External`- Khai báo liên kết từ file ngoài ???
+
 - Vị trí ưu tiên cùng 1 đối tượng `element` sẽ được ưu tiên dựa trên vị trí đặt của `Internal` hay `External` theo thứ tự sắp xếp, khai báo được gọi sau cùng sẽ được ưu tiên hơn.
 
 ![Internal, External](./images/02-003.png "Internal, External")

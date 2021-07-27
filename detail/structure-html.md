@@ -1,0 +1,8 @@
+1.Header(Đầu trang)
+2.Navigation(Thanh điều hướng)
+3.Breadcrumb(https://freefrontend.com/css-breadcrumbs/)
+4.Slidebar(Dạng menu web trái or phải in screen)
+5.Slider(Trình diễn hình ảnh, video)
+6.Banner(Hình ảnh không trình diễn)
+7.Content(Nội dung chính)
+8.Footer(Chân Trang)
