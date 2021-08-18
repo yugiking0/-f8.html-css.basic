@@ -2,8 +2,6 @@
 
 ---
 
-https://yugiking0.github.io/f8.html-css.basic
-
 ## Phần 01 : Giới thiệu
 
 ### Bài 001: Làm gì sau khóa học
