@@ -59,13 +59,17 @@ https://yugiking0.github.io/f8.html-css.basic
 
 ### Bài 016: CSS Function
 
+- [CSS Functions](./detail/css-function.md)
+
 ### Bài 016: Pseudo Classes
 
 ### Bài 016: Pseudo Elements
 
+- [CSS Pseudo](./detail/css-pseudo.md)
+
 ---
 
-## Các nội dung
+### Các nội dung
 
 - [Vị trí position của Element](./detail/css-position.md)
 - [Cấu trúc trang Website OnePage](./detail/structure-html.md)

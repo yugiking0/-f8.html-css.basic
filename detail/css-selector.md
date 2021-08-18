@@ -74,7 +74,7 @@ Chọn các thẻ `.intro`
 - Mô tả: Chọn tất cả các thẻ có class=`intro`
 ```
 
-![Ví dụ .class](./images/001.png "Chọn tất cả các thẻ có class='intro'")
+![Ví dụ .class](./images/01/001.png "Chọn tất cả các thẻ có class='intro'")
 
 ---
 
@@ -88,7 +88,7 @@ Chọn tất cả các thẻ có cả `name1` và `name2` được đặt trong 
 - Mô tả: Chọn tất cả các thẻ có cả name1 và name2 được đặt trong thuộc tính class của nó
 ```
 
-![Ví dụ .class1.class2](./images/002.png "Chọn tất cả các thẻ có cả name1 và name2 được đặt trong thuộc tính class của nó")
+![Ví dụ .class1.class2](./images/01/002.png "Chọn tất cả các thẻ có cả name1 và name2 được đặt trong thuộc tính class của nó")
 
 ---
 
@@ -102,7 +102,7 @@ Chọn tất cả các thẻ có `class=“name2”` là con của một phần 
 - Mô tả: Chọn tất cả các thẻ có class=“name2” là con của một phần tử có class=“name1”
 ```
 
-![Ví dụ .class1 .class2](./images/003.png "Ví dụ 3")
+![Ví dụ .class1 .class2](./images/01/003.png "Ví dụ 3")
 
 ---
 
@@ -116,7 +116,7 @@ Chọn tất cả các thẻ. Tất cả đều cùng 1 font size là 20px.
 - Mô tả: Chọn tất cả các thẻ
 ```
 
-![Ví dụ chọn tất cả các thẻ](./images/004.png "Chọn tất cả các thẻ")
+![Ví dụ chọn tất cả các thẻ](./images/01/004.png "Chọn tất cả các thẻ")
 
 ---
 
@@ -130,7 +130,7 @@ Chọn tất cả các thẻ h3 có font màu đỏ.
 - Mô tả: Chọn tất cả các thẻ h3
 ```
 
-![Ví dụ các thẻ h3 có font màu đỏ](./images/005.png "Chọn tất cả các thẻ h3 có font màu đỏ")
+![Ví dụ các thẻ h3 có font màu đỏ](./images/01/005.png "Chọn tất cả các thẻ h3 có font màu đỏ")
 
 ---
 
@@ -144,7 +144,7 @@ Chọn tất cả thẻ div có class=“box”.
 - Mô tả: Chọn tất cả thẻ div có class=“box”
 ```
 
-![Ví dụ các thẻ div.class có font màu đỏ](./images/006.png "Chọn tất cả thẻ div có class='box'")
+![Ví dụ các thẻ div.class có font màu đỏ](./images/01/006.png "Chọn tất cả thẻ div có class='box'")
 
 ---
 
@@ -159,9 +159,9 @@ Chọn tất cả thẻ div có class=“box”.
 - Mô tả: Chọn tất cả thẻ div và thẻ h5
 ```
 
-![Ví dụ chọn tất cả thẻ div và h5](./images/007-2.png "Chọn tất cả thẻ div và thẻ h5")
+![Ví dụ chọn tất cả thẻ div và h5](./images/01/007-2.png "Chọn tất cả thẻ div và thẻ h5")
 
-![Ví dụ chọn tất cả thẻ div và box](./images/007.png "Chọn tất cả thẻ div và box")
+![Ví dụ chọn tất cả thẻ div và box](./images/01/007.png "Chọn tất cả thẻ div và box")
 
 ---
 
@@ -175,9 +175,9 @@ Chọn tất cả thẻ `p` trong thẻ `div`.
 - Mô tả: Chọn tất cả thẻ p trong thẻ div
 ```
 
-![Ví dụ chọn tất cả thẻ p trong thẻ div](./images/008-1.png "Chọn tất cả thẻ p trong thẻ div")
+![Ví dụ chọn tất cả thẻ p trong thẻ div](./images/08/008-1.png "Chọn tất cả thẻ p trong thẻ div")
 
-## ![Ví dụ chọn tất cả thẻ p trong thẻ div](./images/008-2.png "Chọn tất cả thẻ p trong thẻ div")
+## ![Ví dụ chọn tất cả thẻ p trong thẻ div](./images/08/008-2.png "Chọn tất cả thẻ p trong thẻ div")
 
 **Ví dụ 9:**
 
@@ -189,7 +189,7 @@ Chọn tất cả thẻ `p` là con trực tiếp của thẻ `div`.
 - Mô tả: Chọn tất cả thẻ p là con trực tiếp của thẻ div
 ```
 
-![Ví dụ chọn tất cả thẻ p là con trực tiếp của thẻ div](./images/009.png "Chọn tất cả thẻ p là con trực tiếp của thẻ div")
+![Ví dụ chọn tất cả thẻ p là con trực tiếp của thẻ div](./images/01/009.png "Chọn tất cả thẻ p là con trực tiếp của thẻ div")
 
 ---
 
@@ -203,9 +203,9 @@ Chọn thẻ `p` đứng liền kề sau thẻ `div`.
 - Mô tả: Chọn thẻ p đứng liền kề sau thẻ div
 ```
 
-![Ví dụ chọn thẻ p đứng liền kề sau thẻ div](./images/010-1.png "Chọn thẻ p đứng liền kề sau thẻ div")
+![Ví dụ chọn thẻ p đứng liền kề sau thẻ div](./images/08/010-1.png "Chọn thẻ p đứng liền kề sau thẻ div")
 
-![Ví dụ chọn thẻ p đứng liền kề sau thẻ div](./images/010-2.png "Chọn thẻ p đứng liền kề sau thẻ div")
+![Ví dụ chọn thẻ p đứng liền kề sau thẻ div](./images/08/010-2.png "Chọn thẻ p đứng liền kề sau thẻ div")
 
 ---
 
@@ -219,9 +219,9 @@ Chọn tất cả thẻ `p` đứng sau thẻ `div`.
 - Mô tả: Chọn tất cả thẻ p đứng sau thẻ div
 ```
 
-![Ví dụ chọn tất cả thẻ p đứng sau thẻ div](./images/011-1.png "Chọn tất cả thẻ p đứng sau thẻ div")
+![Ví dụ chọn tất cả thẻ p đứng sau thẻ div](./images/08/010-3.png "Chọn tất cả thẻ p đứng sau thẻ div")
 
-## ![Ví dụ chọn tất cả thẻ p đứng sau thẻ div](./images/011-2.png "Chọn tất cả thẻ p đứng sau thẻ div")
+## ![Ví dụ chọn tất cả thẻ p đứng sau thẻ div](./images/08/010-4.png "Chọn tất cả thẻ p đứng sau thẻ div")
 
 **Ví dụ 12:**
 
@@ -342,4 +342,3 @@ Dấu cách " ": Chỉ tất cả những phần tử bọc trong phần tử b�
 Dấu "+": Một ngày nọ, anh D con ông A chán cảnh ồn ào trong gia đình ông A quá nên anh tách ra và thuê căn nhà ở liền sau nhà ông A cho tự lập, tiện trông nom nhòm ngó cho ông A. Dấu cộng ở đây dùng để chỉ anh D nhà ở liền sau nhà ông A nhưng vẫn mang class "hauDueOngA".
 
 [CSS Selectors - difference between and when to use](https://stackoverflow.com/questions/43325543/css-selectors-difference-between-and-when-to-use-or)
-
