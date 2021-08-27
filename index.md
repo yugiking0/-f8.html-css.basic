@@ -137,9 +137,15 @@
 
 ## Bài 035: Phân tích dự án
 
-## Bài 036:
+- [Phân tích dự án](./detail/bai035/index.md)
 
-## Bài 037:
+## Bài 036: Tạo Project Base
+
+- [Tạo Project Base](./detail/bai036/index.md)
+
+## Bài 037: Header CSS
+
+- [Tạo Project Base](./detail/bai037/index.md)
 
 ## Bài 038:
 
