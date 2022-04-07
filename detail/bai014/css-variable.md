@@ -16,3 +16,4 @@
 - Biến được khai báo trong 1 đối tượng nào đó sẽ là biến `Local`, một đối tượng sẽ được ưu tiên theo biến `Local` hơn so với biến `Global` khi được khai báo có biến `Local` được đặt cùng tên biến `Global`.
 
 ![Variable](./images/03-006.png "Variable")
+

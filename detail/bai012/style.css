@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.name1 .name2 {
+  color: red;
+}
+
+.parent .children {
+  color: red;
+}

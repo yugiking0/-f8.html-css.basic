@@ -45,7 +45,7 @@
 ### Bài 012: CSS Selector
 
 - Xem [CSS selector](./detail/bai012/css-selector.md)
-- Xem [Bài tập về CSS selector](./detail/bai012/baitap13.md)
+- Xem [Bài tập về CSS selector](.detail/bai012/baitap.md)
 
 ### Bài 013: Độ ưu tiên trong CSS
 
@@ -80,6 +80,8 @@
 ## Phần 05: Đệm viền và khoảng lề
 
 ### Bài 019: CSS Padding
+
+- Xem [CSS Padding](./detail/bai019/index.md)
 
 ### Bài 020: CSS Border
 
